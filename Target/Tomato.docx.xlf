@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="Tomato.docx"
@@ -63,8 +63,8 @@
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="2"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">tomate</mrk><mrk
             mtype="protected"
             mid="3"
             MadCap:segmentStatus="Untranslated"
@@ -74,11 +74,11 @@
         phase-name="pretrans"><source>Red</source><seg-source><mrk
             mtype="seg"
             mid="1">Red</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">rojo</mrk></target></trans-unit><trans-unit
         id="3"
         restype="word"
         phase-name="pretrans"><source><bpt
@@ -92,21 +92,21 @@
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept><bpt
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="5" style="font-weight:bold;color:#4F81BD;"&gt;</bpt>ucumber<ept
               id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Pepino</mrk></target></trans-unit><trans-unit
         id="4"
         restype="word"
         phase-name="pretrans"><source>Green</source><seg-source><mrk
             mtype="seg"
             mid="1">Green</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Green</mrk></target></trans-unit><trans-unit
         id="5"
         restype="word"
         phase-name="pretrans"><source><bpt
@@ -127,8 +127,8 @@
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="2"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Plátano</mrk><mrk
             mtype="protected"
             mid="3"
             MadCap:segmentStatus="Untranslated"
@@ -138,11 +138,11 @@
         phase-name="pretrans"><source>Yello</source><seg-source><mrk
             mtype="seg"
             mid="1">Yello</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">Amarillo</mrk></target></trans-unit><trans-unit
         id="7"
         restype="word"
         phase-name="pretrans"><source><bpt
@@ -163,8 +163,8 @@
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="2"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">naranja</mrk><mrk
             mtype="protected"
             mid="3"
             MadCap:segmentStatus="Untranslated"
@@ -174,10 +174,10 @@
         phase-name="pretrans"><source>Orange</source><seg-source><mrk
             mtype="seg"
             mid="1">Orange</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="Repetition"
+            MadCap:matchPercent="100">naranja</mrk></target></trans-unit></body>
   </file>
 </xliff>
